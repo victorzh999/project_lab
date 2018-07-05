@@ -1,4 +1,5 @@
 Hi
+There is one new line inserted.
 This is my second file in git control
 Bye
 
